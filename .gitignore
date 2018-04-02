@@ -1,1 +1,9 @@
 .idea
+/vendor/
+/log/*
+!/log/.gitignore
+composer.lock
+example
+/tmp
+src/config.php
+
