@@ -1,0 +1,56 @@
+2018/04/01 13:04:40 [info] [application] Time: 1522559080.9467主进程退出
+
+2018/04/01 13:04:40 [info] [application] 主进程收到退出信号,[23458]子进程跟着退出
+2018/04/01 13:04:40 [info] [application] Worker count: 0
+2018/04/01 13:05:33 [info] [application] Time: 1522559133.5428主进程退出
+
+2018/04/01 13:05:33 [info] [application] 主进程收到退出信号,[23547]子进程跟着退出
+2018/04/01 13:05:33 [info] [application] Worker count: 0
+2018/04/01 13:11:59 [info] [application] [pid: 23575] has been stopped success
+2018/04/01 13:11:59 [info] [application] Time: 1522559519.7132主进程退出
+
+2018/04/01 13:11:59 [info] [application] 主进程收到退出信号,[23576]子进程跟着退出
+2018/04/01 13:11:59 [info] [application] Worker count: 0
+2018/04/01 13:20:14 [info] [application] [pid: 23986] has been stopped success
+2018/04/01 13:20:14 [info] [application] Time: 1522560014.7729主进程退出
+
+2018/04/01 13:20:14 [info] [application] 主进程收到退出信号,[23987]子进程跟着退出
+2018/04/01 13:20:14 [info] [application] Worker count: 0
+2018/04/01 13:29:01 [info] [application] Time: 1522560541.5224主进程退出
+
+2018/04/01 13:29:01 [info] [application] 主进程收到退出信号,[24470]子进程跟着退出
+2018/04/01 13:29:01 [info] [application] Worker count: 0
+2018/04/01 13:33:04 [info] [application] [pid: 24932] has been stopped success
+2018/04/01 13:33:04 [info] [application] Time: 1522560784.5316主进程退出
+
+2018/04/01 13:33:04 [info] [application] 主进程收到退出信号,[24933]子进程跟着退出
+2018/04/01 13:33:04 [info] [application] Worker count: 0
+2018/04/01 22:59:17 [info] [application] Time: 1522594757.8346主进程退出
+
+2018/04/01 22:59:17 [info] [application] 主进程收到退出信号,[18060]子进程跟着退出
+2018/04/01 22:59:17 [info] [application] Worker count: 0
+2018/04/01 23:02:26 [info] [application] [pid: 19985] has been stopped success
+2018/04/01 23:02:26 [info] [application] Time: 1522594946.2521主进程退出
+
+2018/04/01 23:02:26 [info] [application] 主进程收到退出信号,[20122]子进程跟着退出
+2018/04/01 23:02:26 [info] [application] Worker count: 0
+2018/04/01 23:04:14 [info] [application] [pid: 20305] has been stopped success
+2018/04/01 23:04:14 [info] [application] Time: 1522595054.3785主进程退出
+
+2018/04/01 23:04:14 [info] [application] 主进程收到退出信号,[20306]子进程跟着退出
+2018/04/01 23:04:14 [info] [application] Worker count: 0
+2018/04/01 23:11:23 [info] [application] [pid: 20585] has been stopped success
+2018/04/01 23:11:23 [info] [application] Time: 1522595483.4739主进程退出
+
+2018/04/01 23:11:23 [info] [application] 主进程收到退出信号,[20586]子进程跟着退出
+2018/04/01 23:11:23 [info] [application] Worker count: 0
+2018/04/01 23:12:35 [info] [application] [pid: 20736] has been stopped success
+2018/04/01 23:12:35 [info] [application] Time: 1522595555.3185主进程退出
+
+2018/04/01 23:12:35 [info] [application] 主进程收到退出信号,[20737]子进程跟着退出
+2018/04/01 23:12:35 [info] [application] Worker count: 0
+2018/04/01 23:17:26 [info] [application] [pid: 20799] has been stopped success
+2018/04/01 23:17:26 [info] [application] Time: 1522595846.3669主进程退出
+
+2018/04/01 23:17:26 [info] [application] 主进程收到退出信号,[20800]子进程跟着退出
+2018/04/01 23:17:26 [info] [application] Worker count: 0
